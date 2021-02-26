@@ -71,3 +71,6 @@
     border-bottom: 5px var(--green) solid;
     cursor: not-allowed;
 }
+.cicle {
+    margin-left: 1.3rem;
+}
