@@ -9,7 +9,7 @@
   <br>
   [Rocketseat](https://app.rocketseat.com.br) 
 
-#####  I am making my version this application, when finished it will be published on github 
+#####  I am making my version this application, when finished it will be published on github and run deploy at vercel
 <br>
 
  >#NEVERSTOPLEARNING - Rocketseat 
